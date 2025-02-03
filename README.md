@@ -20,13 +20,13 @@ This reliance on mnemonics places the burden of security entirely on users, crea
 
 Ultimately, making blockchain accessible to the everyday user is essential for realizing its transformative potential and achieving mainstream adoption across industries.
 
-# Objective of Passwallet wallet
+# Objective of Passwallet 
 
 Passwallet Wallet aims to tackle the challenges of blockchain onboarding through the integration of **account abstraction** and **passkeys**. This innovative approach ensures a seamless and intuitive user experience, allowing users to set up their wallets with just a single click on their smartphone or laptop. By eliminating the need for complicated mnemonic phrases and private key management, users can effortlessly generate passkey credentials and set up **smart accounts**, drastically simplifying the onboarding process and enhancing convenience.
 
 Account abstraction decouples complex blockchain operations from the user, allowing actions like signing transactions or paying gas fees to happen behind the scenes. This abstraction makes interacting with decentralized applications (dApps) feel as easy as using a traditional Web2 app. The use of **passkeys**, which rely on biometrics or hardware-based authentication, adds an extra layer of security without compromising usability.
 
-### Current Features of Passwallet Wallet
+### Current Features of Passwallet 
 
 - **Web Version**: The wallet is accessible directly through a web interface, ensuring cross-platform availability and eliminating the need for cumbersome installations.
 - **Telegram Mini Wallet Integration**: Passwallet Wallet is integrated with **Telegram’s Mini Apps**, enabling users to access wallet functionalities seamlessly within the familiar Telegram environment. This integration offers a lightweight, Web2-like experience, making it easier for new users to engage with blockchain applications without friction. (currenlty support telegram desktop and web version).
